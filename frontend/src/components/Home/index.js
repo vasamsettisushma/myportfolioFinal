@@ -15,8 +15,8 @@ const Home = () => {
                 <div className="home-bg">
                     <div className="Portfolio-picture">
                         
-                        <iframe src="https://drive.google.com/file/d/1XT4dgQxKkkCL7Waw4PKHD6Bz9mUAWt4r/preview" width="640" height="480" allow="autoplay"></iframe>
-                       
+                        <iframe src="https://drive.google.com/file/d/1Eruq0O7oLV8-vCFhNjIfivV3IJaMqkwK/preview" width="640" height="480" allow="autoplay"></iframe>
+                 
                     </div>
                     <div className="porfolio-intro-text-container">
     <h1 className="portfolio-welcome-text">
